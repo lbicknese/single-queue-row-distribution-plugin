@@ -66,3 +66,4 @@ $RECYCLE.BIN/
 .settings/org.eclipse.jdt.core.prefs
 dev-lib/.kettle-ignore
 bin/classes/version.properties
+.README.md.html
