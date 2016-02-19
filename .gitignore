@@ -61,3 +61,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+.project
+*.classpath
+.settings/org.eclipse.jdt.core.prefs
+dev-lib/.kettle-ignore
+dist/overflow-row-distribution-plugin-6.1-SNAPSHOT.zip
